@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "//example.org"
-languageCode = "en-US"
-title = "Split - HTML Template Demo"
+languageCode = "pl_PL"
+title = "Wspólnota Chleb Życia - zbiórka świąteczna"
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
@@ -9,15 +9,14 @@ disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 googleAnalytics = ""
 
 # Copyright
-copyright = "&copy;2018 Your Name"
+copyright = "&copy;2020 Wspólnota Chleb Życia"
 
 [params]
 
   # Metadata for search engines and social sharing
-  author = "Jenny Jones"
+  author = "Wspólnota Chleb Życia"
   description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
   shareImage = "images/social.jpg"
-  twitterHandle = "onepagelove"
 
   # Favicon
   favicon = "favicon.ico"
