@@ -46,15 +46,11 @@ copyright = "&copy;2020 Wspólnota Chleb Życia"
 
       [[params.links.list1.link]]
         text = "Regulamin"
-        url = "#"
-
-      [[params.links.list1.link]]
-        text = "Polityka prywatności"
-        url = "#"
+        url = "regulamin/"
 
       [[params.links.list1.link]]
         text = "Wspólnota Chleba Życia"
-        url = "#"
+        url = "https://chlebzycia.org/"
 
 
   # The original template is released under the Creative Commons Attribution 3.0 License.

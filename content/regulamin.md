@@ -3,7 +3,8 @@ title: "Regulamin"
 date: 2020-12-06T00:24:23+01:00
 draft: False 
 ---
-Strona internetowa może udostępniać płatności elektroniczne. Dostępne formy płatności to:
+Strona internetowa może udostępniać płatności elektroniczne. 
+Dostępne formy płatności to:
 
 * Karty płatnicze: Visa, Visa Electron, MasterCard, MasterCard Electronic, Maestro
 * Płatności online
