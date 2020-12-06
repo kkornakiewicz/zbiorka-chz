@@ -27,7 +27,7 @@ copyright = "&copy;2020 Wspólnota Chleb Życia"
     # Image
     [params.visual.image]
       enable = true
-      file = "images/stol.jpg"
+      file = "images/tlo.png"
       position = "center center"
 
     # Video
@@ -48,7 +48,11 @@ copyright = "&copy;2020 Wspólnota Chleb Życia"
         text = "Regulamin"
         url = "regulamin/"
 
-      [[params.links.list1.link]]
+
+    [params.links.list2]
+      heading = ""
+
+      [[params.links.list2.link]]
         text = "Wspólnota Chleba Życia"
         url = "https://chlebzycia.org/"
 
